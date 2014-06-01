@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+
+#directories
+cocos2d
+proj.*
+studio_builder
